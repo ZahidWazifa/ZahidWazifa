@@ -1,28 +1,30 @@
 # 💫 About Me:
-Hi 👋 I'm Zahid Wazifa, a University of Sriwijaya student studying computer systems who is enthusiastic about technology and its development.  has acquired expertise in Microsoft Word, cloud computing, DevOps, and Java programming.  enthused about cloud computing and machine intelligence and seeking to have a substantial impact on the tech sector.<br>🌱 I’m currently learning Java,Html,js,react,devops<br>📫 How to reach me  at zahidwazifa@gmail.com<br>💬Ask me about java, python,react js
+Hi 👋 I'm Zahid Wazifa, a University of Sriwijaya student studying computer systems who is enthusiastic about technology and its development.  has acquired expertise in Microsoft Word, cloud computing, DevOps, and Web programming.  enthused about cloud computing and machine intelligence and seeking to have a substantial impact on the tech sector.<br>🌱 I’m currently learning Java,Html,js,react,devops<br>📫 How to reach me  at zahidwazifa@gmail.com<br>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zahid-wazifa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/zahid-wazifa) 
+# 💻 Tech Stack And Framework: 
+![Front End](https://github-readme-tech-stack.vercel.app/api/cards?title=Front+End&borderRadius=5&showBorder=false&lineCount=1&width=550&titleColor=%23AAADC4&line1=javascript%2Cjavascript%2Cf7df1e%3Bnode.js%2Cnode.js%2C539e43%3Breact%2Creact%2C0097b2%3Btailwindcss%2Ctailwindcss%2C1da8bb%3B)
+---
+![Back End](https://github-readme-tech-stack.vercel.app/api/cards?title=Back+End&borderRadius=5&showBorder=false&lineCount=1&width=550&titleColor=%23AAADC4&line1=MongoDB%2Cmongo+DB%2C005f02%3Bdata%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTUuMzg0IDI1NC4wNTQiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJhIiB4MT0iMjQuNzE1IiB4Mj0iMTUxLjEzNiIgeTE9IjIyLjg5OCIgeTI9IjE0OC4zMzciIGdyYWRpZW50VHJhbnNmb3JtPSJzY2FsZSguOTk4ODkgMS4wMDExMSkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzM4N0VCOCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzNjY5OTQiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ%2BCiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImIiIHgxPSIxMDIuNDgzIiB4Mj0iMjM4LjI2IiB5MT0iMTAzLjI2NiIgeTI9IjIzMS45MDUiIGdyYWRpZW50VHJhbnNmb3JtPSJzY2FsZSguOTk4ODkgMS4wMDExMSkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI0ZGRTA1MiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNGRkMzMzEiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ%2BCiAgPC9kZWZzPgogIDxwYXRoIGZpbGw9InVybCgjYSkiIGQ9Ik0xMjYuOTE2LjA3MmMtNjQuODMyIDAtNjAuNzg0IDI4LjExNS02MC43ODQgMjguMTE1bC4wNzIgMjkuMTI4aDYxLjg2OHY4Ljc0NUg0MS42MzFTLjE0NSA2MS4zNTUuMTQ1IDEyNi43N2MwIDY1LjQxNyAzNi4yMSA2My4wOTcgMzYuMjEgNjMuMDk3aDIxLjYxdi0zMC4zNTZzLTEuMTY1LTM2LjIxIDM1LjYzMi0zNi4yMWg2MS4zNjJzMzQuNDc1LjU1NyAzNC40NzUtMzMuMzE5VjMzLjk3UzE5NC42Ny4wNzIgMTI2LjkxNi4wNzJ6TTkyLjgwMiAxOS42NmExMS4xMiAxMS4xMiAwIDAgMSAxMS4xMyAxMS4xMyAxMS4xMiAxMS4xMiAwIDAgMS0xMS4xMyAxMS4xMyAxMS4xMiAxMS4xMiAwIDAgMS0xMS4xMy0xMS4xMyAxMS4xMiAxMS4xMiAwIDAgMSAxMS4xMy0xMS4xM3oiIHN0eWxlPSJmaWxsOnVybCgjYSkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0uMTQ1IC0uMDcyKSIvPgogIDxwYXRoIGZpbGw9InVybCgjYikiIGQ9Ik0xMjguNzU3IDI1NC4xMjZjNjQuODMyIDAgNjAuNzg0LTI4LjExNSA2MC43ODQtMjguMTE1bC0uMDcyLTI5LjEyN0gxMjcuNnYtOC43NDVoODYuNDQxczQxLjQ4NiA0LjcwNSA0MS40ODYtNjAuNzEyYzAtNjUuNDE2LTM2LjIxLTYzLjA5Ni0zNi4yMS02My4wOTZoLTIxLjYxdjMwLjM1NXMxLjE2NSAzNi4yMS0zNS42MzIgMzYuMjFoLTYxLjM2MnMtMzQuNDc1LS41NTctMzQuNDc1IDMzLjMydjU2LjAxM3MtNS4yMzUgMzMuODk3IDYyLjUxOCAzMy44OTd6bTM0LjExNC0xOS41ODZhMTEuMTIgMTEuMTIgMCAwIDEtMTEuMTMtMTEuMTMgMTEuMTIgMTEuMTIgMCAwIDEgMTEuMTMtMTEuMTMxIDExLjEyIDExLjEyIDAgMCAxIDExLjEzIDExLjEzIDExLjEyIDExLjEyIDAgMCAxLTExLjEzIDExLjEzeiIgc3R5bGU9ImZpbGw6dXJsKCNiKSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLS4xNDUgLS4wNzIpIi8%2BCjwvc3ZnPgo%3D%2Cpython%2C%3Blaravel%2Claravel%2Cff2d20%3B)
+---
+![Dev Ops](https://github-readme-tech-stack.vercel.app/api/cards?title=Dev+Ops&borderRadius=20&showBorder=false&lineCount=1&width=550&titleColor=%23AAADC4&line1=kubernetes%2Ckubernetes%2C326de6%3Bjenkins%2Cjenkins%2Cd33833%3Bdocker%2Cdocker%2C2396ed%3B)
+---
+![Version Control](https://github-readme-tech-stack.vercel.app/api/cards?title=Version+Control&borderRadius=20&showBorder=false&lineCount=1&width=550&titleColor=%23AAADC4&line1=git%2Cgit%2Cde4c36%3Bgithub%2Cgithub%2Cfffcfc%3Bbitbucket%2Cbitbucket%2C095dd8%3B)
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=flat-square&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ZahidWazifa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZahidWazifa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahidWazifa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ZahidWazifa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ZahidWazifa&icon=6&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Support me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ZAHIDWAZIFA) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
