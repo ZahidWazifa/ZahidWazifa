@@ -2,9 +2,8 @@
 Hi 👋 I'm Zahid Wazifa, a University of Sriwijaya student studying computer systems who is enthusiastic about technology and its development.  has acquired expertise in Microsoft Word, cloud computing, DevOps, and Web programming.  enthused about cloud computing and machine intelligence and seeking to have a substantial impact on the tech sector.<br>📫 How to reach me  at zahidwazifa@gmail.com<br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZahidWazifa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahidWazifa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![ZahidWazifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahidWazifa&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahidWazifa&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=10&hide=html&theme=tokyonight)](https://github.com/ZahidWazifa/github-readme-stats)<br>
 # 💻 Tech Stack: 
 ![Front End](https://github-readme-tech-stack.vercel.app/api/cards?title=Front+End&borderRadius=5&showBorder=false&lineCount=1&width=550&titleColor=%23AAADC4&line1=javascript%2Cjavascript%2Cf7df1e%3Bnode.js%2Cnode.js%2C539e43%3Breact%2Creact%2C0097b2%3Btailwindcss%2Ctailwindcss%2C1da8bb%3B)
 ---
