@@ -13,7 +13,6 @@ Hi 👋 I'm Zahid Wazifa, a University of Sriwijaya student studying computer sy
 ![Dev Ops](https://github-readme-tech-stack.vercel.app/api/cards?title=Dev+Ops&borderRadius=20&showBorder=false&lineCount=1&width=550&titleColor=%23AAADC4&line1=kubernetes%2Ckubernetes%2C326de6%3Bjenkins%2Cjenkins%2Cd33833%3Bdocker%2Cdocker%2C2396ed%3B)
 ---
 ![Version Control](https://github-readme-tech-stack.vercel.app/api/cards?title=Version+Control&borderRadius=20&showBorder=false&lineCount=1&width=550&titleColor=%23AAADC4&line1=git%2Cgit%2Cde4c36%3Bgithub%2Cgithub%2Cfffcfc%3Bbitbucket%2Cbitbucket%2C095dd8%3B)
----
 
   ## 💰 Support me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ZAHIDWAZIFA) 
