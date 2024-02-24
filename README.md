@@ -2,10 +2,10 @@
 Hi 👋 I'm Zahid Wazifa, a University of Sriwijaya student studying computer systems who is enthusiastic about technology and its development.  has acquired expertise in Microsoft office, Software  Developmen, cloud computing, DevOps, and Web programming.  enthused about cloud computing and machine intelligence and seeking to have a substantial impact on the tech sector.<br>📫 How to reach me  at zahidwazifa@gmail.com<br>
 
 # 📊 GitHub Stats:
-[![ZahidWazifa's GitHub stats](https://readme-stats-two-alpha.vercel.app/api?username=ZahidWazifa&include_all_commits=false&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/ZahidWazifa/ReadmeStats)
-[![Top Langs](https://readme-stats-two-alpha.vercel.app/api/top-langs/?username=ZahidWazifa&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=10&hide=html,SCSS,CSS&hide_border=true&theme=github_dark)](https://github.com/ZahidWazifa/ReadmeStats)<br>
-[![Profile Details](https://raw.githubusercontent.com/ZahidWazifa/ZahidWazifa/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![Contribution](profile-3d-contrib/profile-night-view.svg)
+[![ZahidWazifa's GitHub stats](https://readme-stats-two-alpha.vercel.app/api?username=ZahidWazifa&include_all_commits=false&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/ZahidWazifa)
+[![Top Langs](https://readme-stats-two-alpha.vercel.app/api/top-langs/?username=ZahidWazifa&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=10&hide=html,SCSS,CSS&hide_border=true&theme=github_dark)](https://github.com/ZahidWazifa)<br>
+[![Profile Details](https://raw.githubusercontent.com/ZahidWazifa/ZahidWazifa/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/ZahidWazifa)
+[![Contribution](profile-3d-contrib/profile-night-view.svg)](https://github.com/ZahidWazifa)
 # 💻 Tech Stack: 
 ![Front End](https://github-readme-tech-stack.vercel.app/api/cards?title=Front+End&borderRadius=5&showBorder=false&lineCount=1&width=550&titleColor=%23AAADC4&line1=javascript%2Cjavascript%2Cf7df1e%3Bnode.js%2Cnode.js%2C539e43%3Breact%2Creact%2C0097b2%3Btailwindcss%2Ctailwindcss%2C1da8bb%3B)
 ---
