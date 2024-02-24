@@ -2,7 +2,7 @@
 Hi 👋 I'm Zahid Wazifa, a University of Sriwijaya student studying computer systems who is enthusiastic about technology and its development.  has acquired expertise in Microsoft office, Software  Developmen, cloud computing, DevOps, and Web programming.  enthused about cloud computing and machine intelligence and seeking to have a substantial impact on the tech sector.<br>📫 How to reach me  at zahidwazifa@gmail.com<br>
 
 # 📊 GitHub Stats:
-[![ZahidWazifa's GitHub stats](https://readme-stats-two-alpha.vercel.app/api?username=ZahidWazifa&show_icons=true&theme=tokyonight)](https://github.com/ZahidWazifa/ReadmeStats)
+[![ZahidWazifa's GitHub stats](https://readme-stats-two-alpha.vercel.app/api?username=ZahidWazifa&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/ZahidWazifa/ReadmeStats)
 [![Top Langs](https://readme-stats-two-alpha.vercel.app/api/top-langs/?username=ZahidWazifa&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=10&hide=html,SCSS,CSS&theme=tokyonight)](https://github.com/ZahidWazifa/ReadmeStats)<br>
 ![Contribution](profile-3d-contrib/profile-night-view.svg)
 # 💻 Tech Stack: 
