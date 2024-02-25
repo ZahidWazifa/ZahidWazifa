@@ -3,13 +3,20 @@ Hi 👋 I'm Zahid Wazifa, a University of Sriwijaya student studying computer sy
 
 # 📊 GitHub Stats:
 <div align="Center">
-  <img src="https://readme-stats-two-alpha.vercel.app/api?username=ZahidWazifa&include_all_commits=false&show_icons=true&hide_border=false&border_color=1d2229&theme=city_lights" alt="ZahidWazifa's GitHub stats" href="https://github.com/ZahidWazifa">
-  <img src="https://readme-stats-two-alpha.vercel.app/api/top-langs/?username=ZahidWazifa&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=10&hide=html,SCSS,CSS&hide_border=false&border_color=1d2229&theme=city_lights" alt="Top Langs" href="https://github.com/ZahidWazifa">
-  <img src="https://raw.githubusercontent.com/ZahidWazifa/ZahidWazifa/main/profile-summary-card-output/city_lights/0-profile-details.svg" alt="Profile Details" href="https://github.com/ZahidWazifa">
+  <a href="https://github.com/ZahidWazifa"> 
+  <img alt="ZahidWazifa's GitHub stats" src="https://readme-stats-two-alpha.vercel.app/api?username=ZahidWazifa&include_all_commits=false&show_icons=true&hide_border=false&border_color=1d2229&theme=city_lights">
+  </a>
+  <a href="https://github.com/ZahidWazifa">
+    <img alt="Top Langs" src="https://readme-stats-two-alpha.vercel.app/api/top-langs/?username=ZahidWazifa&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=10&hide=html,SCSS,CSS&hide_border=false&border_color=1d2229&theme=city_lights">
+  </a >
+  <a href="https://github.com/ZahidWazifa">
+    <img alt="Profile Details" src="https://raw.githubusercontent.com/ZahidWazifa/ZahidWazifa/main/profile-summary-card-output/city_lights/0-profile-details.svg"  >
+  </a>
+  <a href="https://github.com/ZahidWazifa">
+    <img  alt="Contribution" src="profile-3d-contrib/profile-night-view.svg">
+  </a>
 </div>
 <br>
-
-[![Contribution](profile-3d-contrib/profile-night-view.svg)](https://github.com/ZahidWazifa)
 
 # 💻 Tech Stack: 
 
