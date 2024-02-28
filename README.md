@@ -10,7 +10,7 @@ Hi 👋 I'm Zahid Wazifa, a University of Sriwijaya student studying computer sy
     <img alt="Top Langs" src="https://readme-stats-two-alpha.vercel.app/api/top-langs/?username=ZahidWazifa&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=10&hide=html,SCSS,CSS&hide_border=false&border_color=1d2229&theme=city_lights">
   </a >
   <a href="https://github.com/ZahidWazifa">
-    <img alt="Profile Details" src="https://raw.githubusercontent.com/ZahidWazifa/ZahidWazifa/main/profile-summary-card-output/city_lights/0-profile-details.svg"  >
+    <img alt="Profile Details" src="https://raw.githubusercontent.com/ZahidWazifa/ZahidWazifa/main/profile-summary-card-output/city_lights/0-profile-details.svg">
   </a>
   <a href="https://github.com/ZahidWazifa">
     <img  alt="Contribution" src="profile-3d-contrib/profile-night-view.svg">
