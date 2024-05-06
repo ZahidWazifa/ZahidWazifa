@@ -15,7 +15,8 @@ Hi 👋 I'm Zahid Wazifa, a University of Sriwijaya student studying computer sy
   <a href="https://github.com/ZahidWazifa">
     <img  alt="Contribution" src="profile-3d-contrib/profile-night-view.svg">
   </a> -->
-    <!--START_SECTION:wakatime--><!--END_SECTION:wakatime-->
+    <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
 <br>
 
