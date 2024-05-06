@@ -19,14 +19,16 @@ jobs:
           SHOW_TITLE: true
           SECTION_NAME: wakatime
           BLOCKS:  ⣀⣄⣤⣦⣶⣷⣿
-          CODE_LANG: json
           SHOW_TIME: true
-          LANG_COUNT: 5
-          IGNORE_LANGUAGES: .gitignore HTML
+          LANG_COUNT: 10 # optional
+          CODE_LANG: rust # optional
+          TIME_RANGE: all_time # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+          IGNORED_LANGUAGES: YAML JSON TOML #
           # Commit
           COMMIT_MESSAGE: update readme for waka graph
           TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: ZahidWazifa # optional
