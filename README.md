@@ -11,10 +11,10 @@ Hi 👋 I'm Zahid Wazifa, a University of Sriwijaya student studying computer sy
   </a >
   <a href="https://github.com/ZahidWazifa">
     <img alt="Profile Details" src="https://raw.githubusercontent.com/ZahidWazifa/ZahidWazifa/main/profile-summary-card-output/city_lights/0-profile-details.svg">
-  </a>
+<!--   </a>
   <a href="https://github.com/ZahidWazifa">
     <img  alt="Contribution" src="profile-3d-contrib/profile-night-view.svg">
-  </a>
+  </a> -->
   <!--START_SECTION:waka-->
 
 ```txt
