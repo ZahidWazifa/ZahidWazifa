@@ -15,3 +15,19 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_TIME_API_KEY }}
+          REPOSITORY: ZahidWazifa/ZahidWazifa
+          SHOW_TITLE: true
+          SECTION_NAME: wakatime
+          BLOCKS:  ⣀⣄⣤⣦⣶⣷⣿
+          CODE_LANG: json
+          SHOW_TIME: true
+          LANG_COUNT: 5
+          IGNORE_LANGUAGES: .gitignore HTML
+          # Commit
+          COMMIT_MESSAGE: update readme for waka graph
+          TARGET_BRANCH: master # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
+          AUTHOR_NAME: ZahidWazifa # optional
+          
