@@ -16,7 +16,13 @@ Hi 👋 I'm Zahid Wazifa, a University of Sriwijaya student studying computer sy
     <img  alt="Contribution" src="profile-3d-contrib/profile-night-view.svg">
   </a>
   <!--START_SECTION:waka-->
-  
+
+```txt
+Java              2 hrs 9 mins    █████████████████████░░░░   84.62 %
+GitIgnore file    11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+Java Properties   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+```
+
 <!--END_SECTION:waka-->
 </div>
 <br>
