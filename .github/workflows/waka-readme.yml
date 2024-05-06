@@ -18,7 +18,6 @@ jobs:
           REPOSITORY: ZahidWazifa/ZahidWazifa
           SHOW_TITLE: true
           SECTION_NAME: wakatime
-          BLOCKS:  ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TIME: true
           LANG_COUNT: 10 # optional
           CODE_LANG: rust # optional
