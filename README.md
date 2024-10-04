@@ -18,7 +18,7 @@ Hi 👋 I'm Zahid Wazifa, a University of Sriwijaya student studying computer sy
     <!--START_SECTION:waka-->
 
 ```rust
-From: 29 March 2024 - To: 01 October 2024
+From: 29 March 2024 - To: 02 October 2024
 
 Total Time: 41 hrs 21 mins
 
