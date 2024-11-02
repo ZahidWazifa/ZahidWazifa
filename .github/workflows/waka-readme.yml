@@ -26,7 +26,7 @@ jobs:
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          IGNORED_LANGUAGES: YAML JSON TOML Properties XML # optional
           # Commit
           COMMIT_MESSAGE: update readme for waka graph
           TARGET_BRANCH: master # optional
