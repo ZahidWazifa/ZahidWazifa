@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Zahid Wazifa, a University of Sriwijaya student studying computer systems who is enthusiastic about technology and its development.  has acquired expertise in Microsoft office, Software  Developmen, cloud computing, DevOps, and Web programming.  enthused about cloud computing and machine intelligence and seeking to have a substantial impact on the tech sector.<br>📫 How to reach me  at zahidwazifa@gmail.com<br>
+Hi 👋 I'm Zahid Wazifa, a University of Sriwijaya student studying computer systems who is enthusiastic about technology and its development.  has acquired expertise in Microsoft office, Software  Developmen, cloud computing, DevOps, Cyber Security and Web programming.  enthused about cloud computing and machine intelligence and seeking to have a substantial impact on the tech sector.<br>📫 How to reach me  at zahidwazifa@gmail.com<br>
 
 # 📊 GitHub Stats:
 <div align="Center">
