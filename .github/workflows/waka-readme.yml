@@ -21,12 +21,12 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
+          LANG_COUNT: 12 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML Properties XML Nginx configuration file java Properties # optional
+          IGNORED_LANGUAGES: YAML JSON TOML Properties XML Nginx configuration file Java Properties # optional
           # Commit
           COMMIT_MESSAGE: update readme for waka graph
           TARGET_BRANCH: master # optional
