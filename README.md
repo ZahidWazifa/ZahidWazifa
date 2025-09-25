@@ -3,14 +3,14 @@ a University of Sriwijaya student studying computer systems who is enthusiastic 
 
 # 📊 GitHub Stats:
 <div align="Center">
-  <a href="https://github.com/ZahidWazifa"> 
+  <!-- <a href="https://github.com/ZahidWazifa"> 
   <img alt="ZahidWazifa's GitHub stats" src="https://rdms-eight.vercel.app//api?username=ZahidWazifa&include_all_commits=false&show_icons=true&border_color=1d2229&theme=city_lights">
   </a>
   <a href="https://github.com/ZahidWazifa">
     <img alt="Top Langs" src="https://rdms-eight.vercel.app/api/top-langs/?username=ZahidWazifa&layout=donut&border_color=1d2229&langs_count=15&hide=html,SCSS,CSS&theme=city_lights">
   </a >
   <a href="https://github.com/ZahidWazifa">
-    <img alt="Profile Details" src="https://raw.githubusercontent.com/ZahidWazifa/ZahidWazifa/main/profile-summary-card-output/city_lights/0-profile-details.svg">
+    <img alt="Profile Details" src="https://raw.githubusercontent.com/ZahidWazifa/ZahidWazifa/main/profile-summary-card-output/city_lights/0-profile-details.svg"> -->
 <!--   </a>
   <a href="https://github.com/ZahidWazifa">
     <img  alt="Contribution" src="profile-3d-contrib/profile-night-view.svg">
